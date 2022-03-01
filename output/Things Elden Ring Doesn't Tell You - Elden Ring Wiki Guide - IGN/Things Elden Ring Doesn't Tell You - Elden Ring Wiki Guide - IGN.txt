@@ -1,0 +1,77 @@
+Elden Ring marks From Software’s first attempt at a truly Open-World game, and while it may seem a bit more forgiving than the souls series, there’s still plenty of information that isn’t explained to you. You’ll either have to seek out these easily missed points yourself, or check this list of things Elden Ring Doesn’t Tell You.
+
+
+Just the simple act of being able to level up isn’t outright explained to you when you first start your adventure - though you’ll stumble into it eventually by activating three sites of grace in the overworld and resting. When you meet Melina, she’ll not not only allow you to exchange runes to increase your stats, but will also give you the spectral steed, Torrent. 
+
+Torrent can help with a lot more than just speeding across the map, and there’s a few things you should know when using your trusty steed:
+
+
+Speed is key when engaging in mounted combat on Torrent - but be wary when coming in to slice at opponents on the ground - if they have their shields raised, your attacks will cause you to slow down dramatically, allowing enemies to swarm you.
+
+
+Fast traveling from your map is a new feature in FromSoftware games, and Elden Ring has a few rules about it that can be easily overlooked. Since you can’t open your map in combat, you can’t fast travel in combat either, and the only item that warps you back to a Site of Grace in combat will use up all your runes.
+
+You also cannot fast travel while exploring the mini dungeons that dot the landscape - though defeating the boss of a dungeon will trigger a wisp of light that can warp you back to the entrance. Interestingly, this does not apply to the larger Legacy Dungeons, meaning you can warp around the multiple sites of grace in the larger dungeons as much as you wish - or if you find yourself in a bad situation after taking a one-way trip down some rooftops.
+
+
+Occasionally, there will be encounters that occur only when you fast travel to a certain location. For instance, once you’ve spoken to Melina for the first time, if you fast-travel to the Church of Elleh, you’ll be greeted by someone who will offer you the Spirit Calling Bell. Similarly, after you’ve entered Stormveil Castle, if you fast travel to the Warmaster’s Shack in Stormhill at night, you’ll be confronted by a very powerful invader. These options may not always be available to you though.
+
+
+Certain enemies carry large horns or trumpets that they will use to call for backup if they spot you, bringing any other enemies rushing over to fight. This can be overwhelming pretty quickly if the horn bearers aren’t taken out first, so you may choose to prioritize them, or play more stealthily until they are defeated.
+
+
+Certain larger than life roaming world bosses like dragons can quickly turn large parts of a region into a battlefield as they rip apart trees and crash through rocks to chase you around their lair. If you move too far away from an overworld boss’ battleground, they may disappear without warning, and warp back to where you first spotted them, which disengages you from the fight
+
+The good news is this doesn’t regenerate their health or reset the event. You’ll be able to race back and pick up where you left off - or use the time to recharge and get ready to finish the fight, or come back later.
+
+
+Besides resting at a site of grace to replenish your HP and FP Flasks (which also resurrects defeated enemies), you can also restore charges by defeating groups of enemies in the open world. Often, the more difficult or numerous the foes, the more charges you’ll earn back. This can happen in fortified enemy encampments, single patrolling knights, or even with groups of wild animals.
+
+This mechanic is key to exploring more of the Lands Between without needing to rest at a Site of Grace every 5 minutes, and sometimes it’s worth seeking out a group of enemies you know you can handle easily when you’re low on charges to get some more before proceeding to a more difficult location. You can also keep an eye out for red or blue teardrop scarabs and kill them to get additional charges.
+
+However, it’s important to remember that this won’t happen for enemies inside dungeons, so prepare for these endeavors accordingly.
+
+
+At certain points in Elden Ring you may hear about “Those That Live in Death”. This generally refers to enemies like Skeletons - and you may find that once struck down, they can often resurrect themselves fully to keep harassing you.
+
+
+The easiest way around this is by using holy magic, crafting holy pots, or imbuing your weapon with a holy effect - as this will make sure these enemies die outright. If you lack access to such tools, you can still defeat them using “normal” weapons. Once their bones hit the ground, look for a white glow on the ground as they come back to life. Make sure to hit them during this animation to finish them for good, or they’ll regenerate back to full health.
+
+
+Dungeon exploration in Elden Ring is more focused on platforming than previous SoulsBorne games, since you’ll be able to freely jump at will. This means there is much more room to explore or deviate from the main path, and the concept of “out of bounds” has shifted dramatically. You can now jump to rooftops across ramparts and crumbling walls, down buildings, and across gaps to find new areas, secrets, and alternate paths. Fall damage is greatly reduced in Elden Ring compared to previous titles as well (even moreso in certain parts of Legacy Dungeons) so feel free to be a little bit more adventurous.
+
+
+Due to the importance of the titular Elden Ring, you won’t find regular rings to equip as you explore. Instead, you’ll find Talismans to give you passive bonuses, but you’ll only start with one slot - but there is a way to get more by tackling tough bosses and progressing the story.
+
+The same goes for spell Memory, as you’ll only have two slots to “equip” spells at a Site of Grace, and just increasing your Intelligence won’t grant more. Luckily, you can get more either from merchants, or gaining access to certain sorcerer towers all over the Lands Between.
+
+
+Elden Ring features certain types of teleporters that can send you far from your current location to different regions in the Lands Between. Some are hidden in remote areas, some are unlocked using special keys, and others can help you cross impossible gaps. You won’t know where you’ll end up until you appear on the other side - and many of them only teleport you one way. 
+
+Certain teleporters may even be utilized as traps in chests (instead of mimics that will eat you). These traps often place you in dangerous locations - but unlike the other teleporters, if you get caught by one of these, you won’t be able to fast travel or respawn at a site of grace until you find a new one. Use extra care when navigating your way out, as dying will just send you right back to where the teleporter trap dropped you.
+
+
+As you explore, you may come across certain barriers or inactive places, that feature a twin fanged imp statue nearby. These can unlock gateways, treasures, mini dungeons, and even optional bosses. If you find a Stonesword Key, you can unlock these barriers by inserting them into the imp statues (some will require 1, others 2), but doing so will use up that key.
+
+You’ll have to think hard about when and where you want to use them. Luckily, you can these keys all around - sold from merchants, located on bodies in secluded areas, and found in Legacy Dungeons.
+
+
+Once you kill a demigod in their Legacy Dungeons and collect their Great Rune, it actually won’t be of any use to you until you power it up. You can equip them at a Site of Grace, but it will lack its true potential when first gained. Each Great Rune must be activated at the holy towers found in each region of Limgrave, and each one will have different requirements to reach the tower.
+
+
+For example, with Godrick’s Great Rune, which you get after clearing Stormveil Castle, you must first head to the Limgrave Tower, located across the bridge at the east exit in Stormveil Castle. Once you reclaim the power of the rune at the top of the tower, you’ll be able to equip it at a site of grace - but this alone won’t grant you its power.
+
+To unlock the power of a Great Rune, you’ll need to use rare consumables called Rune Arcs to draw upon its full power. Unlike other item buffs, this one will last until the next time you die. Because of this, you’ll want to consider when to use the consumable Rune Arcs very carefully, as they are hard to find.
+
+Thankfully, there is a small chance to find them by killing enemies - rats, specifically, in case you want to try getting more without searching the world or buying them from merchants.
+
+
+Demigods won’t just give you a Great Rune when defeated - they’ll also give Elden Ring’s version of a boss soul - a  Remembrance. And just like boss souls, you’ll be able to exchange these for a great amount of runes, or extremely special weapons, armor, or spells.
+
+Normally, you’d have to make a difficult decision on how to use the Remembrance, but as it turns out there is a way to have your cake and eat it, too. In different regions of the Lands Between you may find giant Wandering Mausoleums and crash about the land on four legs like titans. Once you find a way to bring them down, you can enter them to duplicate a Remembrance, allowing you to get multiple rewards from the same boss.
+
+Of course, this can only be done once per Mausoleum, so you can’t duplicate them forever!
+
+As you spend your first few hours in Limgrave, you may have lots of questions or run into things that might not make sense. Be sure to get more info on these helpful how-tos to steer you in the right direction:
+
+Was this guide helpful?
